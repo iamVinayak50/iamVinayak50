@@ -16,7 +16,7 @@
 ---
 
 ### :woman_technologist: About Me : 
-  I am working as system engineer in TCS <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+  I am working as Data engineer in TCS <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
   - :telescope:  All of my projects are available at [![Linkedin Badge](https://img.shields.io/badge/-Github-Red?style=flat&logo=Linkedin&logoColor=white)](https://github.com/imVinayak50)
 
   - :seedling:  I’m currently learning Data Science, Data Analyst, Machine Learning, Deep Learning.
